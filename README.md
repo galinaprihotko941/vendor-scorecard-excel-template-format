@@ -1,0 +1,1 @@
+# vendor-scorecard-excel-template-format
